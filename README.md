@@ -1,4 +1,4 @@
-# Claude-3.5-Sonnet-s-Artifacts
+# Claude-3.5-Sonnet-s-Artifacts -24 juin 2024
 
 ### Claude Advances the LLM Interface
 - https://www.deeplearning.ai/the-batch/claude-3-5-sonnets-artifacts-feature-makes-it-easier-to-build-and-code-on-site/
