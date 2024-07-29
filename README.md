@@ -3,7 +3,9 @@
 ### Claude Advances the LLM Interface
 - https://www.deeplearning.ai/the-batch/claude-3-5-sonnets-artifacts-feature-makes-it-easier-to-build-and-code-on-site/
 - https://aiexplorer.io/guides-ia/comment-utiliser-artifacts-de-claude-3-5-sonnet/
-- https://claude.ai/new
+- Access to Claude 3.5 Sonnet https://claude.ai/new
+- 15 INSANE Use Cases for NEW Claude Sonnet 3.5 : https://youtu.be/wBJZQt23J7M?feature=shared
+- Claude 3.5 Sonnet Data Analysis Full Guide! (Insane Results) : https://youtu.be/gNuPssbh0TU?feature=shared
 
 ### Prompt create a streamlit App 
 
